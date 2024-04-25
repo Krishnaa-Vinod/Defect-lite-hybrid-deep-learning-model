@@ -1,0 +1,9 @@
+train: data_images/train/images
+val: data_images/test/images
+test: data_images/test/images
+
+nc: 5
+names: ['deburring', 'inclusion', 'oil_spot', 'punching_hole', 'rolled_pit']
+
+
+
